@@ -1,0 +1,8 @@
+{
+  "name": "e-Rakshak: Digital FIR Workflow System",
+  "description": "An enterprise-grade, legally compliant digital FIR management and signing system for State Police Departments, featuring role-based workflows, SLA tracking, and cryptographic audit trails.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
